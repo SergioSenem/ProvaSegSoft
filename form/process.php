@@ -1,6 +1,6 @@
 <html>
 <body>
-    Bem vindo <?php echo $_GET["name"]; ?> <br>
-    Seu E-mail é <?php echo $_GET["email"]; ?>
+    Bem vindo <?php echo $_POST["name"]; ?> <br>
+    Seu E-mail é <?php echo $_POST["email"]; ?>
 </body>
 </html>

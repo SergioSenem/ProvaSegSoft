@@ -1,6 +1,6 @@
 <html>
 <body>
-    <form action="process.php" method="get">
+    <form action="process.php" method="post">
         Nome: <input type="text" name="name"><br>
         E-mail: <input type="email" name="email"><br>
         Senha: <input type="password" name="password"><br>
